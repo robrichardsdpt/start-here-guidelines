@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@robrichardsdpt] (https://github.com/robrichardsdpt)
-
 - [@Devtinator](https://github.com/Devtinator)
 
 - [@sawankhanchi](https://github.com/sawankhanchi)
@@ -4184,3 +4182,5 @@
 -[@abhayy947](https://github.com/abhayy947)
 
 - [@adriang-90](https://github.com/adriang-90)
+
+- [@robrichardsdpt](https://github.com/robrichardsdpt)
